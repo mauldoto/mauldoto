@@ -23,7 +23,7 @@ Software Engineer Cikiciki
 
 *   🌍  I'm based in Lamandau, Central Borneo
 *   ✉️  You can contact me at [mauldoto@gmail.com](mailto:mauldoto@gmail.com)
-*   🧠  I'm learning Java and Go
+*   🧠  I'm learning anything
 
 ### Socials
                   
